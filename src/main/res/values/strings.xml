@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shae Notes</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="empty_state">No notes yet. Tap + to create one.</string>
+    <string name="error_required">Title is required.</string>
+    <string name="fab_add">Add note</string>
+</resources>

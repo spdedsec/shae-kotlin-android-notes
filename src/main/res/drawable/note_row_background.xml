@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- SHAE: 0px radius, 1px border, border-defined card, no shadow -->
+    <solid android:color="@color/shae_paper" />
+    <stroke android:width="1dp" android:color="@color/shae_ink" />
+    <corners android:radius="0dp" />
+    <padding android:left="12dp" android:top="12dp" android:right="12dp" android:bottom="12dp" />
+</shape>

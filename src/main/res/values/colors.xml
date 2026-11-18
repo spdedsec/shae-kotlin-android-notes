@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SHAE Field Manual palette -->
+    <color name="shae_paper">#F2EEE5</color>
+    <color name="shae_ink">#191712</color>
+    <color name="shae_oxide">#B3341B</color>
+
+    <color name="android_background">#F2EEE5</color>
+    <color name="android_foreground">#191712</color>
+    <color name="accent_oxide">#B3341B</color>
+</resources>
