@@ -3,6 +3,7 @@
 *.dex
 .class
 build/
+dist/
 .gradle/
 .idea/
 *.iml
